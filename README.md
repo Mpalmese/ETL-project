@@ -19,7 +19,7 @@ Next, we transformed game data frame and team info data frame and merged as one 
 game_id, season, away_team, home_team, away_goals, home_goals, outcome, winning_team.
 
 **Load:** 
-After these steps, the single data frame was uploaded to a MYSQL relational database named “playoff_db". The database features information including game id, season (year), away team name, home team name, away goals, home goals, outcome (win or loss), and winning team name. 
+After these steps, the single data frame was uploaded to a MySQL relational database named “playoff_db". The database features information including game id, season (year), away team name, home team name, away goals, home goals, outcome (win or loss), and winning team name. 
 
 The queries consisted of:
 1) Playoff_data table, 
