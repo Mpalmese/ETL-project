@@ -7,7 +7,7 @@ In this group project, we downloaded two Comma Separated Values (CSV) files from
 
 Sources of data: game.csv and team_info.csv
 
-Link: https://www.kaggle.com/martinellis/nhl-game-data#game.csv
+Link: https://www.kaggle.com/martinellis/nhl-game-data
 
 Extract and cleaning:
 To start, we imported our dependencies (Pandas, Sqlalchemy, MySQLdb) into Jupyter Notebook and extracted raw data from the website. After we exported game data and team info data, we extracted these CSV files into two separate data frames. With proper data cleansing, we were able to combine relevant columns and rename columns in each data frame. 
