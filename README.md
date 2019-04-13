@@ -6,6 +6,7 @@ Project Overview:
 In this group project, we downloaded two Comma Separated Values (CSV) files from the NHL Game Data on Kaggle. Specifically, we looked at one file with the record of each NHL game in the dataset. The other file looked at the team information, such as names. The purpose of this project was to see how each NHL team performed during the playoffs from 2012-2017 using the ETL process. 
 
 Sources of data: game.csv and team_info.csv
+
 Link: https://www.kaggle.com/martinellis/nhl-game-data#game.csv
 
 Extract and cleaning:
