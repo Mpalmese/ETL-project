@@ -1,9 +1,9 @@
-#Extract, Transform, and Load (ETL) Project
+# Extract, Transform, and Load (ETL) Project
 
 ![NHL](NHL.jpg)
 
 
-##Project Overview:
+## Project Overview:
 
 In this group project, we downloaded two Comma Separated Values (CSV) files from the NHL Game Data on Kaggle. Specifically, we looked at one file with the record of each NHL game in the dataset. The other file looked at the team information, such as names. The purpose of this project was to see how each NHL team performed during the playoffs from 2012-2013 and 2016-2017 using the ETL process. 
 
@@ -29,7 +29,7 @@ The queries consisted of:
 5) How many goals each team made in the 2016-2017 season in descending order. 
 
 
-**In addition to the SQL database, a Flask application is available to easily traverse the data and locate individual teams and winners of the NHL playoffs. 
+* In addition to the SQL database, a Flask application is available to easily traverse the data and locate individual teams and winners of the NHL playoffs. 
 
 
 
