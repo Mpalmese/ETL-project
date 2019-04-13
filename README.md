@@ -28,5 +28,3 @@ The queries consisted of:
 4) Query winner of NHL playoffs in 2016-2017 season,
 5) How many goals each team made in the 2016-2017 season in descending order. 
 
-
-* In addition to the SQL database, a Flask application is available to easily traverse the data and locate individual teams and winners of the NHL playoffs. 
