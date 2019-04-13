@@ -1,5 +1,7 @@
 Extract, Transform, and Load (ETL) Project
 
+![NHL](NHL.jpg)
+
 
 **Project Overview:
 
